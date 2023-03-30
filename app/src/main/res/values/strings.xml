@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="input_first">Input num 1</string>
+    <string name="divide_zero">Can`t divide</string>
+    <string name="null_data">Pls input data</string>
+    <string name="wrong_format">Set +-*/</string>
+    <string name="wrong_operation">Input only +-*/</string>
+    <string name="input_second">input num 2</string>
+    <string name="input_operation">Input operation</string>
+    <string name="calculate">Calculate</string>
+    <string name="result">Result</string>
+</resources>

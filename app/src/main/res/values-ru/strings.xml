@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Калькулон</string>
+    <string name="divide_zero">Не делим на ноль!</string>
+    <string name="null_data">Введите оба числа!</string>
+    <string name="wrong_format">Введите "+", "-", "*" или "/"</string>
+    <string name="wrong_operation">Введите +,-,* или /</string>
+    <string name="input_first">Введите первое число</string>
+    <string name="input_second">Введите второе число</string>
+    <string name="input_operation">Введите символ операции</string>
+    <string name="calculate">Посчитать</string>
+    <string name="result">Результат</string>
+</resources>
